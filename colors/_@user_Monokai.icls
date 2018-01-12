@@ -1,11 +1,15 @@
 <scheme name="_@user_Monokai" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.25" />
   <metaInfo>
     <property name="created">2017-10-23T22:34:37</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2017.2.3.0.0</property>
-    <property name="modified">2017-10-23T22:44:40</property>
+    <property name="modified">2018-01-12T16:01:31</property>
     <property name="originalScheme">Monokai</property>
   </metaInfo>
+  <option name="EDITOR_FONT_SIZE" value="14" />
+  <option name="CONSOLE_FONT_NAME" value="Monospaced" />
+  <option name="EDITOR_FONT_NAME" value="Consolas" />
   <colors>
     <option name="CARET_COLOR" value="f8f8f0" />
     <option name="CARET_ROW_COLOR" value="3e3d32" />
